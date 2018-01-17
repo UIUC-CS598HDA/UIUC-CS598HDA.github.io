@@ -2,122 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+There are about 10,000 known human diseases, yet human doctors are only able to recall a fraction of them at any given moment. Operational waste and inefficiencies in healthcare system is vastly overlooked. But maybe, with the help of data analytics, we can overcome all these issues. Today, in healthcare, large amounts of multi-modal health data is becoming more accessible.  Electronic health records, genetic, imaging, and smartwatch data could be an enabling resource for deriving insights for improving care delivery and reducing waste. The enormity and complexity of these datasets present great challenges in analyses and subsequent applications to a practical clinical environment.
 
-[Link to another page](another-page).
+The course will consist of paper readings, presentations, and student projects. Students write critiques, make presentations, and create an academic paper suitable for a workshop or conference. We will review the recent advances in the area of health data analysis. Reading selections broadly cover clinical, genetic, and image analysis. Students are expected to have a working knowledge of machine learning, data mining, and programming skills to carry an implementation of a final project (preferably in Python, but all languages are welcome). The project is extremely hands-on. You will experience firsthand all of the journey a data scientist goes through: data ambiguity, missing data, anomalies, skewness, predictive models, descriptive models, etc. 
 
-There should be whitespace between paragraphs.
+**Prerequisite:** Machine learning, data mining
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Grading:** Attendance and Paper Reviews 20%, Presentations 30%, Final Project 50%
 
-# [](#header-1)Header 1
+[Tentative Agenda](agenda)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[User Data Agreement](data-agreement)
