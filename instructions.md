@@ -15,10 +15,10 @@ The course consists of:
 ## Paper readings and reviews
 * Classes will have one or two assigned readings, which we will all read prior to class and discuss during the class. Reading the papers is essential to get the most out of this course!
 * You must submit (on Piazza) a paper review for each of the assigned readings. A one-paragraph review is sufficient. **Your reviews should not summarize the paper or repeat the abstract. Instead your review should comprise at least three comments on the paper**. For example, a comment might be: 
-** a criticism of the paper
-** an advantage of the paper that was not discussed in the paper
-** a suggestion of a way to extend or build on the paper in future work
-** a response to another student's comment
+  * a criticism of the paper
+  * an advantage of the paper that was not discussed in the paper
+  * a suggestion of a way to extend or build on the paper in future work
+  * a response to another student's comment
 
 * Your reviews should contain material that doesn't appear in the other students' reviews. (If you independently produce the same idea, that's fine. Copying other students' reviews, however, is plagiarism.)
 * You are encouraged to read, think about, and comment on the other students' reviews.
