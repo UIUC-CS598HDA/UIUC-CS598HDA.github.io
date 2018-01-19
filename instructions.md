@@ -2,11 +2,16 @@
 layout: default
 ---
 
+## Overview
 The course consists of:
 * [Class sessions](#class-sessions)
 * [Paper readings and reviews](#paper-readings-and-reviews)
 * [Presentations](#presentations)
 * [A research project](#research-project)
+
+Each of these components of the course is discussed below, along with several other administrative issues:
+* [Grading](#grading)
+* [Policies on ethics, attribution, and cheating](#Policies-on-Ethics-Attribution-and-Cheating)
 
 ## Class sessions
 * Class sessions combine lectures, discussions of reading, and presentations by students. 
@@ -27,7 +32,7 @@ The course consists of:
 
 
 ## Presentations 
-* Each student will lead a paper presentation at least once. 
+* Each student will present a paper and will lead a paper disscusion at least once. 
 * All students must sign up for a presentation slot. **sign up sheet will be released in week 2**
 * 20 minutes long, typically, 15 slides per paper. 2-3 slides on motivation and background. 5-7 slides on core ideas of the paper. 3-5 slides on experimental data. 2-3 slides on your thoughts/criticisms/questions/discussion points about the paper.
 * Your presentation should be original and independent. You are allowed to cooperate with your partner for your session. 
@@ -38,7 +43,12 @@ The course consists of:
 ## Research project
 * **coming soon**
 
-## Policies on Ethics, Attribution and Cheating
+## Grading
+* Attendance and paper reviews 20%
+* Presentations 30%
+* Final project 50%
+
+## Policies on ethics, attribution, and cheating
 * The standard university policies on original work, cheating and attribution apply to all work in the course. Violation of these may result in either lowering of course grade by one letter, or failing the course, or a different final decision left to the instructor. 
 
 

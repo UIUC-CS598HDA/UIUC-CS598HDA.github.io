@@ -6,13 +6,13 @@ There are about 10,000 known human diseases, yet human doctors are only able to 
 
 The course will consist of paper readings, presentations, and student projects. Students write critiques, make presentations, and create an academic paper suitable for a workshop or conference. We will review the recent advances in the area of health data analysis. Reading selections broadly cover clinical, genetic, and image analysis. Students are expected to have a working knowledge of machine learning, data mining, and programming skills to carry an implementation of a final project (preferably in Python, but all languages are welcome). The project is extremely hands-on. You will experience firsthand all of the journey a data scientist goes through: data ambiguity, missing data, anomalies, skewness, predictive models, descriptive models, etc. 
 
-**Prerequisite:** Machine learning, data mining
+**Prerequisite:** Machine learning, data mining, AI
 
-**Grading:** Attendance and Paper Reviews 20%, Presentations 30%, Final Project 50%
-
-[Tentative agenda](agenda)
+[Piazza discussion board](https://piazza.com/class/jci5ij424lb2c5)
 
 [Instructions and policies](instructions)
+
+[Tentative schedule](agenda)
 
 [User data agreement](data-agreement)
 
