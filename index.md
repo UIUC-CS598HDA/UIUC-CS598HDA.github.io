@@ -12,6 +12,8 @@ The course will consist of paper readings, presentations, and student projects. 
 
 [Tentative Agenda](agenda)
 
+[Instructions and Policies](instructions)
+
 [User Data Agreement](data-agreement)
 
-Projects (coming soon)
+Project ideas (coming soon)
