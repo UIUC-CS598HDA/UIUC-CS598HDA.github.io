@@ -28,10 +28,12 @@ The course consists of:
 
 ## Presentations 
 * Each student will lead a paper presentation at least once. 
-* All students must sign up for a presentation slot.
+* All students must sign up for a presentation slot. **sign up sheet will be released in week 2**
 * 20 minutes long, typically, 15 slides per paper. 2-3 slides on motivation and background. 5-7 slides on core ideas of the paper. 3-5 slides on experimental data. 2-3 slides on your thoughts/criticisms/questions/discussion points about the paper.
 * Your presentation should be original and independent. You are allowed to cooperate with your partner for your session. 
 * Reusing slides from someone else's presentation should be done only if it is absolutely necessary, but should be acknowledged right at the beginning of the presentation. 
+* If two presenters are assigned to one presentaion, they work together. 
+* Email your slides to the instructors at least 24 hours before the presentation time. You will receive feedback via email or in person. 
 
 ## Research project
 * **coming soon**
