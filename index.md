@@ -12,7 +12,7 @@ The course will consist of paper readings, presentations, and student projects. 
 
 [Piazza discussion board](https://piazza.com/class/jci5ij424lb2c5)
 
-[Tentative schedule](schedule)
+[Schedule](schedule) (Tentative)
 
 [User data agreement](data-agreement)
 
