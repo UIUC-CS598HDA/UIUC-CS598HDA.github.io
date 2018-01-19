@@ -11,7 +11,7 @@ The course consists of:
 
 Each of these components of the course is discussed below, along with several other administrative issues:
 * [Grading](#grading)
-* [Policies on ethics, attribution, and cheating](#policies-on-ethics,-attribution,-and-cheating)
+* [Policies on ethics, attribution, and cheating](#policies-on-ethics-attribution-and-cheating)
 
 ## Class sessions
 * Class sessions combine lectures, discussions of reading, and presentations by students. 
