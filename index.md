@@ -10,10 +10,10 @@ The course will consist of paper readings, presentations, and student projects. 
 
 **Grading:** Attendance and Paper Reviews 20%, Presentations 30%, Final Project 50%
 
-[Tentative Agenda](agenda)
+[Tentative agenda](agenda)
 
-[Instructions and Policies](instructions)
+[Instructions and policies](instructions)
 
-[User Data Agreement](data-agreement)
+[User data agreement](data-agreement)
 
 Project ideas (coming soon)
