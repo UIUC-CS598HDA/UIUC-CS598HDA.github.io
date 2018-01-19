@@ -8,7 +8,7 @@ The course will consist of paper readings, presentations, and student projects. 
 
 **Prerequisites:** working knowledge of machine learning, data mining, and programming skills
 
-[Syllabus](syllabus): start here for an overview of the course
+[Syllabus](syllabus) (start here for an overview of the course)
 
 [Piazza discussion board](https://piazza.com/class/jci5ij424lb2c5)
 
