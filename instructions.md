@@ -19,7 +19,6 @@ The course consists of:
   * an advantage of the paper that was not discussed in the paper
   * a suggestion of a way to extend or build on the paper in future work
   * a response to another student's comment
-
 * Your reviews should contain material that doesn't appear in the other students' reviews. (If you independently produce the same idea, that's fine. Copying other students' reviews, however, is plagiarism.)
 * You are encouraged to read, think about, and comment on the other students' reviews.
 * Submit your review **by 11:59 pm the night before the lecture** for which the paper was assigned, by posting it on Piazza.
