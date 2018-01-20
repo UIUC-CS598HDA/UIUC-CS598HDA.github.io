@@ -34,13 +34,14 @@ Each of these components of the course is discussed below, along with several ot
 
 
 ## Presentations 
-* Each student will present a paper and will lead a paper disscusion at least once. 
-* All students must sign up for a presentation slot. **sign up sheet will be released in week 2**
-* 20 minutes long, typically, 15 slides per paper. 2-3 slides on motivation and background. 5-7 slides on core ideas of the paper. 3-5 slides on experimental data. 2-3 slides on your thoughts/criticisms/questions/discussion points about the paper.
+* All students must sign up for a presentation slot. **Sign up sheet will be released in week 2**
+* During the semester, each student will (co-)present a paper and (co-)lead a paper disscusion at least once. 
+* If two presenters are assigned to one presentaion, they work together. 
+* Meet with the instructors at the end of the previous class to discuss your plan.Email your slides to the instructors at least 24 hours before the presentation time. You will receive feedback via email or in person. 
+* Aim for 20 minutes long, typically, 15 slides per paper. 2-3 slides on motivation and background. 5-7 slides on core ideas of the paper. 3-5 slides on experimental data. 2-3 slides on your thoughts/criticisms/questions/discussion points about the paper.
 * Your presentation should be original and independent. You are allowed to cooperate with your partner for your session. 
 * Reusing slides from someone else's presentation should be done only if it is absolutely necessary, but should be acknowledged right at the beginning of the presentation. 
-* If two presenters are assigned to one presentaion, they work together. 
-* Email your slides to the instructors at least 24 hours before the presentation time. You will receive feedback via email or in person. 
+* After the presentation, lead a conversation about the papers, covering topics much like those that would be covered in a paper review and the disscusion panel. Integrate themes from student commentaries to spark discussion.
 
 ## Research project
 * **coming soon**
