@@ -34,7 +34,7 @@ Each of these components of the course is discussed below, along with several ot
 
 
 ## Presentations 
-* All students must sign up for a presentation slot. **Sign up sheet will be released in week 2**
+* All students must sign up for a presentation slot, please write your name in the [sign up sheet](https://docs.google.com/spreadsheets/d/1SHtvISvCsk8Jwhv03yjI9D5WF-uowbyvAPmj4ZnT_tc/edit?usp=sharing). Please choose the slot solely based on the date not the papers as they are subject to change. 
 * During the semester, each student will (co-)present a paper and (co-)lead a paper disscusion at least once. 
 * If two presenters are assigned to one presentaion, they work together. 
 * Meet with the instructors at the end of the previous class to discuss your plan.Email your slides to the instructors at least 24 hours before the presentation time. You will receive feedback via email or in person. 
