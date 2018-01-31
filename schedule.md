@@ -14,7 +14,6 @@ Orientation and welcome
 * Esteva, Andre, et al. "Dermatologist-level classification of skin cancer with deep neural networks." Nature 542.7639 (2017): 115-118. [link](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
 
 ### Week 4 / Feb 7, 2018
-* Rajpurkar, Pranav, et al. "Cardiologist-level arrhythmia detection with convolutional neural networks." arXiv preprint arXiv:1707.01836 (2017). [link](http://mental.jmir.org/2017/2/e19/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_1)
 * Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
 
 ### Week 5 / Feb 14, 2018 / Project proposals due
@@ -30,7 +29,7 @@ Orientation and welcome
 * Fitzpatrick, et al. "Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial." JMIR Mental Health 4.2 (2017): e19. [link](http://mental.jmir.org/2017/2/e19/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_1)
 
 ### Week 9 / Mar 14, 2018
-* Coming soon
+* Rajpurkar, Pranav, et al. "Cardiologist-level arrhythmia detection with convolutional neural networks." arXiv preprint arXiv:1707.01836 (2017). [link](http://mental.jmir.org/2017/2/e19/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_1)
 
 ### Week 10 / Mar 21, 2018 / Spring break
 * No class
