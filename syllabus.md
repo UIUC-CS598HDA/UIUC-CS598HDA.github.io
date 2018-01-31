@@ -53,13 +53,7 @@ Each of these components of the course is discussed below, along with several ot
   * evaluate the effectiveness of the approach
 * Students are enouraged to be creative, and should think broadly about problems, domains, and datasets.	
 * There are many different datasets to work with. More and more health data is collected with various data access policies. You will find these aggregated lists helpful:
-  * [list 1](https://github.com/blengerich/CompBioDatasetsForMachineLearning)
-  * [list 2](https://github.com/beamandrew/medical-data)
-  * [list 3](https://github.com/awesomedata/awesome-public-datasets)
-  * [list 4](https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=health&page=1&pageSize=20&size=all&filetype=all&license=all)
-  * [list 5](https://phpartners.org/health_stats.html)
-  * [healthdata.gov](https://www.healthdata.gov/search/type/dataset)
-  * [data.gov](https://catalog.data.gov/dataset)
+  * [list 1](https://github.com/blengerich/CompBioDatasetsForMachineLearning), [list 2](https://github.com/beamandrew/medical-data), [list 3](https://github.com/awesomedata/awesome-public-datasets), [list 4](https://phpartners.org/health_stats.html), [Kaggle health data](https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=health&page=1&pageSize=20&size=all&filetype=all&license=all), [healthdata.gov](https://www.healthdata.gov/search/type/dataset), and [data.gov](https://catalog.data.gov/dataset)
 
 * **Project milestones:** there are three project milestones before the final paper deadline and poster presentation. 
   * **Milestone 1 - Project proposals - due week 5:** groups should produce three potential final project proposal. After review, the instructors will provide feedback to help you choose the best project for the course. Submit the proposals to the instructors via email. Your group should send a single email, with all group members cc'd, with simple PDF attachments. Each proposal should be **at most a half page of text, clearly describing each of the following:**
