@@ -14,6 +14,7 @@ The course consists of:
 Each of these components of the course is discussed below, along with several other administrative issues:
 * [Grading](#grading)
 * [Policies on ethics, attribution, and cheating](#policies-on-ethics-attribution-and-cheating)
+* [User data agreement](#user-data-agreement)
 
 ## Class sessions
 * Class sessions combine lectures, discussions of reading, and presentations by students. 
@@ -44,15 +45,53 @@ Each of these components of the course is discussed below, along with several ot
 * After the presentation, lead a conversation about the papers, covering topics much like those that would be covered in a paper review and the disscusion panel. Integrate themes from student commentaries to spark discussion.
 
 ## Research project
-* **coming soon**
+* The research project is one of the highlights of the course. The goal is for students to pick and execute on a data-driven research project in health domain that, by the end of the semester (mid May), would be publishable as a short paper in a top quality workshop like [NIPS](https://nips.cc/Conferences/2017), and when expanded to a full paper would be publishable in a top-quality conference.
+* We recommend you work in groups of 2-3. Larger or smaller groups should discuss with the instructor first.
+* Projects must satisy three requirements:
+  * address a real, health/clinical problem in a particular domain
+  * use a data-driven approach to model the problem
+  * evaluate the effectiveness of the approach
+* Students are enouraged to be creative, and should think broadly about domains and datasets.	
+* There are many different datasets to work with. More and more health data is collected with various data access policies. You can find a list HERE
+* **Project milestones:** there are three project milestones before the final poster presentation and paper deadline. 
+  * **Milestone 1 - Project proposals - due week 5:** groups should produce three potential final project proposal. Submit the proposals to the instructors via email. Your group should send a single email, with all group members cc'd, with simple PDF attachments. Each proposal should be **at most a half page of text, clearly describing each of the following:**
+    * the health/clinical problem you plan to address
+    * what dataset, data-driven approach, and evaluation plan will you use first  to attack the problem
+    * what is the most closely related work, and why your proposed problem is different than those or why your proposed solution is better. You should actively search for related work
+    * if there are multiple people on your project team, who they are and how you plan to partition the work among the team
+  The instructor will provide feedback to help you choose the best project for the course. 
+  * **Milestone 2 - Midterm report - due week 8:** your group should produce a draft of your final paper's introduction. The introduction should flesh out the proposal to describe in more detail the motivation, related work, and potential contribution. You must demonstrate progress in your solution and the midterm presentation is worth 15% of your final course grade, so it would be good to start work on the project early. We will be paying close attention to your strategies for using datasets and data-driven approaches to modeling the problem.
+  * **Milestone 3 - Final paper - due week 16:** for the final milestone, your group should produce a draft of the paper with results. This is a short paper suitable for submission to a workshop. It should clearly state the problem being solved, importance of problem, related work, Your approach, evaluation, and results, summary of conclusions, discussion of limitations, and future work The paper should be at most 8 pages for one-person projects, and at most 12 pages for two-person projects. But you will be judged on results, not pagecount!
+* At the end of the course, during the final exam period, we will have a poster session. This will be an opportunity for the instructor to ask questions about your project, and also for other students and faculty in the department to see the cool work that you've done.
+* Dates for the above steps are announced on the [class schedule](schedule). In general, you are encouraged to meet with the instructor and seek advice on the project as often as you like.
+* Can a project be shared with another course's project or independent research? It is OK, and often a good idea, to work on a class project that complements your other ongoing projects and has a related topic. However, you should identify the piece of the larger project that you are working on for this course, with separate pieces for other courses. Check with your other instructors as well.
 
 ## Grading
 * Attendance and paper reviews 20%
 * Presentations 30%
-* Final project 50%
+* Final project 50%:
+  * Proposal 5%
+  * Midterm report 15%
+  * Final paper 30%
 
 ## Policies on ethics, attribution, and cheating
 * The standard university policies on original work, cheating and attribution apply to all work in the course. Violation of these may result in either lowering of course grade by one letter, or failing the course, or a different final decision left to the instructor. 
+
+## User data agreement
+* **I request access to data collected by the UIUC SRG and its partners for the purpose of scientific investigation, teaching or the planning of clinical research studies and agree to the following terms:**
+1. I will receive access to de-identified data and will not attempt to establish the identity of, or attempt to contact any of the subjects.
+2. I will not attempt to make direct contact with project’s PIs or staff at sites concerning the specific results of individual subjects. 
+3. I will not further disclose these data beyond the uses outlined in this agreement and my data use application and understand that redistribution of data in any manner is prohibited. 
+4. I will require anyone on my team who utilizes these data, or anyone with whom I share these data to comply with this data use agreement.
+5. I will accurately provide the requested information for persons who will use these data and the analyses that are planned using these data.
+6. I will comply with any rules and regulations imposed by my institution and its institutional review board in requesting these data.
+7. I will ensure that as an Investigator who utilize the data, appropriate administrative, physical and technical safeguards to prevent use or disclosure of the data other than as provided for by this Agreement are in place.
+* **If I publish abstracts using data from CS598HDA course, I agree to the following:**
+1. I will request permission from instructors first.
+2. I will cite partners as the source of data and the funding sources in the abstract as space allows.
+* **If I publish manuscripts using data from CS598HDA course, I agree to the following:**
+1. The authorship of manuscript is determined by data PIs and course instructors.
+2. I will submit all manuscripts to PIs and course instructors prior to submitting to a journal. 
 
 
 [back](./)
