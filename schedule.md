@@ -15,6 +15,7 @@ Orientation and welcome
 
 ### Week 4 / Feb 7, 2018
 * Rajpurkar, Pranav, et al. "Cardiologist-level arrhythmia detection with convolutional neural networks." arXiv preprint arXiv:1707.01836 (2017). [link](http://mental.jmir.org/2017/2/e19/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_1)
+* Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
 
 ### Week 5 / Feb 14, 2018 / Project proposals due
 * Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [link](http://www.pnas.org/content/114/38/10166.full)
