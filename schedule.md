@@ -17,7 +17,7 @@ Orientation and welcome
 * Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
 
 ### Week 5 / Feb 14, 2018 / Project proposals due
-* Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [link](http://www.pnas.org/content/114/38/10166.full)
+* Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
 
 ### Week 6 / Feb 21, 2018
 * Nalls, Mike A., et al. “The diagnosis of neurodegenerative dementias using machine learning.” JAMA Neurology 2018. [link](https://drive.google.com/drive/folders/1bsBMmM0zxISm6qjr1G9JQdUffYcSozbR?usp=sharing)
@@ -45,13 +45,13 @@ Orientation and welcome
 * Korfiatis, Panagiotis, et al. "Residual deep convolutional neural network predicts MGMT methylation status." Journal of digital imaging 30.5 (2017): 622-628. [link](https://link.springer.com/article/10.1007/s10278-017-0009-z)
 
 ### Week 14 / Apr 18, 2018
-* coming soon
+* Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [link](http://www.pnas.org/content/114/38/10166.full)
 
 ### Week 15 / Apr 25, 2018 
-* coming soon
+* Liu, Yun, et al. "Detecting cancer metastases on gigapixel pathology images." arXiv preprint arXiv:1703.02442 (2017). [link](https://arxiv.org/pdf/1703.02442.pdf)
 
 ### Week 16 / May 2, 2018 / Final paper due 
-* coming soon
+* Chekroud, Adam Mourad, et al. "Cross-trial prediction of treatment outcome in depression: a machine learning approach." The Lancet Psychiatry 3.3 (2016): 243-250.
 
 
 [back](./)
