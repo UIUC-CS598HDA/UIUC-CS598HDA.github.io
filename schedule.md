@@ -20,13 +20,13 @@ Orientation and welcome
 * Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
 
 ### Week 6 / Feb 21, 2018
-* Nalls, Mike A., et al. “The diagnosis of neurodegenerative dementias using machine learning.” JAMA Neurology 2018. [link](https://drive.google.com/drive/folders/1bsBMmM0zxISm6qjr1G9JQdUffYcSozbR?usp=sharing)
+* Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
 
 ### Week 7 / Feb 28, 2018
-* Avati, Anand, et al. "Improving Palliative Care with Deep Learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/abs/1711.06402)
+* Nalls, Mike A., et al. “The diagnosis of neurodegenerative dementias using machine learning.” JAMA Neurology 2018. [link](https://drive.google.com/drive/folders/1bsBMmM0zxISm6qjr1G9JQdUffYcSozbR?usp=sharing)
 
 ### Week 8 / Mar 7, 2018 / Midterm report due
-* Fitzpatrick, et al. "Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial." JMIR Mental Health 4.2 (2017): e19. [link](http://mental.jmir.org/2017/2/e19/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_1)
+* Miotto, Riccardo, et al. "Deep patient: an unsupervised representation to predict the future of patients from the electronic health records." Scientific reports 6 (2016): 26094. [link](https://www.nature.com/articles/srep26094)
 
 ### Week 9 / Mar 14, 2018
 * Rajpurkar, Pranav, et al. "Cardiologist-level arrhythmia detection with convolutional neural networks." arXiv preprint arXiv:1707.01836 (2017). [link](http://mental.jmir.org/2017/2/e19/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_1)
