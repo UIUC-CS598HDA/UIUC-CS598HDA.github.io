@@ -23,7 +23,7 @@ Orientation and welcome
 * Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
 
 ### Week 7 / Feb 28, 2018
-* Nalls, Mike A., et al. “The diagnosis of neurodegenerative dementias using machine learning.” JAMA Neurology 2018. [link](https://drive.google.com/drive/folders/1bsBMmM0zxISm6qjr1G9JQdUffYcSozbR?usp=sharing)
+* Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [link](http://www.pnas.org/content/114/38/10166.full)
 
 ### Week 8 / Mar 7, 2018 / Midterm report due
 * Miotto, Riccardo, et al. "Deep patient: an unsupervised representation to predict the future of patients from the electronic health records." Scientific reports 6 (2016): 26094. [link](https://www.nature.com/articles/srep26094)
@@ -35,8 +35,7 @@ Orientation and welcome
 * No class
 
 ### Week 11 / Mar 28, 2018
-* Nalls, Mike A., et al. "Diagnosis of Parkinson's disease on the basis of clinical and genetic classification: a population-based modelling study." The Lancet Neurology 14.10 (2015): 1002-1009. [link](http://www.thelancet.com/journals/laneur/article/PIIS1474-4422(15)00178-7/abstract)
-* Faghri, Faraz, et al. “Predicting onset, progression, and clinical subtypes of Parkinson disease using machine learning.” Brain 2018. [link](https://drive.google.com/open?id=0Bxi2XLhUfVZ7cEhEdHBiSXVZMlk)
+* Faghri, Faraz, et al. “Predicting onset, progression, and clinical subtypes of Parkinson disease using machine learning.” Brain 2018. 
 
 ### Week 12 / Apr 4, 2018
 * Akkus, Zeynettin, et al. "Predicting Deletion of Chromosomal Arms 1p/19q in Low-Grade Gliomas from MR Images Using Machine Intelligence." Journal of Digital Imaging (2017): 1-8. [link](https://link.springer.com/article/10.1007/s10278-017-9984-3)
@@ -45,7 +44,7 @@ Orientation and welcome
 * Korfiatis, Panagiotis, et al. "Residual deep convolutional neural network predicts MGMT methylation status." Journal of digital imaging 30.5 (2017): 622-628. [link](https://link.springer.com/article/10.1007/s10278-017-0009-z)
 
 ### Week 14 / Apr 18, 2018
-* Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [link](http://www.pnas.org/content/114/38/10166.full)
+* Nalls, Mike A., et al. “The diagnosis of neurodegenerative dementias using machine learning.” JAMA Neurology 2018. 
 
 ### Week 15 / Apr 25, 2018 
 * Liu, Yun, et al. "Detecting cancer metastases on gigapixel pathology images." arXiv preprint arXiv:1703.02442 (2017). [link](https://arxiv.org/pdf/1703.02442.pdf)
