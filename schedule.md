@@ -29,16 +29,17 @@ Orientation and welcome
 * Miotto, Riccardo, et al. "Deep patient: an unsupervised representation to predict the future of patients from the electronic health records." Scientific reports 6 (2016): 26094. [link](https://www.nature.com/articles/srep26094)
 
 ### Week 9 / Mar 14, 2018
-* Rajpurkar, Pranav, et al. "Cardiologist-level arrhythmia detection with convolutional neural networks." arXiv preprint arXiv:1707.01836 (2017). [link](http://mental.jmir.org/2017/2/e19/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_1)
+* Baumel, Tal, Jumana Nassour-Kassis, Michael Elhadad, and Noemie Elhadad. "Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment." arXiv preprint arXiv:1709.09587 (2017). [link](https://arxiv.org/pdf/1709.09587.pdf)
+* Che, Zhengping, Sanjay Purushotham, Kyunghyun Cho, David Sontag, and Yan Liu. "Recurrent neural networks for multivariate time series with missing values." arXiv preprint arXiv:1606.01865 (2016). [link](https://arxiv.org/pdf/1606.01865.pdf)
 
 ### Week 10 / Mar 21, 2018 / Spring break
 * No class
 
 ### Week 11 / Mar 28, 2018
-* Faghri, Faraz, et al. “Predicting onset, progression, and clinical subtypes of Parkinson disease using machine learning.” Brain 2018. 
+* Rotmensch, Maya, Yoni Halpern, Abdulhakim Tlimat, Steven Horng, and David Sontag. "Learning a health knowledge graph from electronic medical records." Scientific reports 7, no. 1 (2017): 5994. [link](https://www.nature.com/articles/s41598-017-05778-z) 
 
 ### Week 12 / Apr 4, 2018
-* Akkus, Zeynettin, et al. "Predicting Deletion of Chromosomal Arms 1p/19q in Low-Grade Gliomas from MR Images Using Machine Intelligence." Journal of Digital Imaging (2017): 1-8. [link](https://link.springer.com/article/10.1007/s10278-017-9984-3)
+* Rajpurkar, Pranav, et al. "Cardiologist-level arrhythmia detection with convolutional neural networks." arXiv preprint arXiv:1707.01836 (2017). [link](https://arxiv.org/pdf/1707.01836.pdf)
 
 ### Week 13 / Apr 11, 2018
 * Korfiatis, Panagiotis, et al. "Residual deep convolutional neural network predicts MGMT methylation status." Journal of digital imaging 30.5 (2017): 622-628. [link](https://link.springer.com/article/10.1007/s10278-017-0009-z)
