@@ -57,10 +57,9 @@ Orientation and welcome
 * **(Optional review and presentation)** Vieira, Sandra, Walter HL Pinaya, and Andrea Mechelli. "Using deep learning to investigate the neuroimaging correlates of psychiatric and neurological disorders: Methods and applications." Neuroscience & Biobehavioral Reviews 74 (2017): 58-75. [link](https://www.sciencedirect.com/science/article/pii/S0149763416305176)
 
 ### Week 14 / Apr 18, 2018
+* Havaei, Mohammad, et al. "Brain tumor segmentation with deep neural networks." Medical image analysis 35 (2017): 18-31. [link](https://www.sciencedirect.com/science/article/pii/S1361841516300330)
+* Cheng, Jie-Zhi, et al. "Computer-aided diagnosis with deep learning architecture: applications to breast lesions in US images and pulmonary nodules in CT scans." Scientific reports 6 (2016): 24454. [link](https://www.nature.com/articles/srep24454)
 * Liu, Yun, et al. "Detecting cancer metastases on gigapixel pathology images." arXiv preprint arXiv:1703.02442 (2017). [link](https://arxiv.org/pdf/1703.02442.pdf)
-* Cheng, Jie-Zhi, Dong Ni, Yi-Hong Chou, Jing Qin, Chui-Mei Tiu, Yeun-Chung Chang, Chiun-Sheng Huang, Dinggang Shen, and Chung-Ming Chen. "Computer-aided diagnosis with deep learning architecture: applications to breast lesions in US images and pulmonary nodules in CT scans." Scientific reports 6 (2016): 24454.
-* Milletari, Fausto, et al. "Hough-CNN: deep learning for segmentation of deep brain regions in MRI and ultrasound." Computer Vision and Image Understanding 164 (2017): 92-102.
-* Havaei, Mohammad, et al. "Brain tumor segmentation with deep neural networks." Medical image analysis 35 (2017): 18-31.
 
 ### Week 15 / Apr 25, 2018 
 * Chekroud, Adam Mourad, et al. "Cross-trial prediction of treatment outcome in depression: a machine learning approach." The Lancet Psychiatry 3.3 (2016): 243-250.
