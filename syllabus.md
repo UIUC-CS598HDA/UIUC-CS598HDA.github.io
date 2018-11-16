@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Overview
-The course will consist of paper readings, presentations, and student projects. Students write critiques, make presentations, and create an academic paper suitable for a workshop or conference. We will review the recent advances in the area of health data analysis. Reading selections broadly cover the clinical, genetic, image, and sensor data analysis. **Students are expected to have a working knowledge of machine learning, data mining, and programming skills to carry an implementation of a final project** (preferably in Python, but all languages are welcome). The project is extremely hands-on. You will experience firsthand all of the journeys a data scientist goes through: data ambiguity, missing data, anomalies, skewness, predictive models, descriptive models, etc.
+The course will consist of paper readings, presentations, and student projects. Students write critiques, make presentations, and create an academic paper suitable for a workshop or conference. We will review the recent advances in the area of health data analysis. Reading selections broadly cover the clinical, genetic, image, and wearables data analysis. **Students are expected to have a working knowledge of machine learning, data mining, and programming skills to carry an implementation of a final project** (preferably in Python, but all languages are welcome). The project is extremely hands-on. You will experience firsthand all of the journeys a data scientist goes through: data ambiguity, missing data, anomalies, skewness, predictive models, descriptive models, etc.
 
 The course consists of:
 * [Class sessions](#class-sessions)
