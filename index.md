@@ -13,4 +13,4 @@ This graduate level course will consist of paper readings, presentations, and st
 
 [Piazza discussion board](https://piazza.com/class/jci5ij424lb2c5)
 
-[Schedule](schedule) (tentative)
+[Schedule](schedule)
