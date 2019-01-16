@@ -4,43 +4,43 @@ layout: default
 
 ## Agenda
 
-### Week 1 / Jan 17, 2018
+### Week 1 / Jan 16, 2019
 Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN4uYnkgyNii0tJjGlcANoNu3OAQTXK9LY5_Ew/edit?usp=sharing)
 
-### Week 2 / Jan 24, 2018
+### Week 2 / Jan 23, 2019
 * Topol, Eric J. "High-performance medicine: the convergence of human and artificial intelligence." Nature Medicine 25.1 (2019): 44. [link](https://www.nature.com/articles/s41591-018-0300-7)
 * Challen, Robert, et al. "Artificial intelligence, bias and clinical safety" BMJ Qual Saf Published Online First: 12 January 2019. [link](https://qualitysafety.bmj.com/content/early/2019/01/12/bmjqs-2018-008370)
 
-### Week 3 / Jan 31, 2018
+### Week 3 / Jan 30, 2019
 * Esteva, Andre, et al. "Dermatologist-level classification of skin cancer with deep neural networks." Nature 542.7639 (2017): 115-118. [link](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
 * Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410. [link](https://jamanetwork.com/journals/jama/fullarticle/2588763)
 
-### Week 4 / Feb 7, 2018
+### Week 4 / Feb 6, 2019
 * Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
 
-### Week 5 / Feb 14, 2018 / Project proposals due
+### Week 5 / Feb 13, 2019 / Project proposals due
 * Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
 
-### Week 6 / Feb 21, 2018
+### Week 6 / Feb 20, 2019
 * Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
 
-### Week 7 / Feb 28, 2018
+### Week 7 / Feb 27, 2019
 * Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [link](http://www.pnas.org/content/114/38/10166.full)
 
-### Week 8 / Mar 7, 2018 / Midterm report due
+### Week 8 / Mar 6, 2019 / Midterm report due
 * Miotto, Riccardo, et al. "Deep patient: an unsupervised representation to predict the future of patients from the electronic health records." Scientific reports 6 (2016): 26094. [link](https://www.nature.com/articles/srep26094)
 
-### Week 9 / Mar 14, 2018
+### Week 9 / Mar 13, 2019
 * Baumel, Tal, et al. "Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment." arXiv preprint arXiv:1709.09587 (2017). [link](https://arxiv.org/pdf/1709.09587.pdf)
 * Che, Zhengping, et al. "Recurrent neural networks for multivariate time series with missing values." arXiv preprint arXiv:1606.01865 (2016). [link](https://arxiv.org/pdf/1606.01865.pdf)
 
-### Week 10 / Mar 21, 2018 / Spring break
+### Week 10 / Mar 20, 2019 / Spring break
 * No class
 
-### Week 11 / Mar 28, 2018
+### Week 11 / Mar 27, 2019
 * Rotmensch, Maya, et al. "Learning a health knowledge graph from electronic medical records." Scientific reports 7.1 (2017): 5994. [link](https://www.nature.com/articles/s41598-017-05778-z) 
 
-### Week 12 / Apr 4, 2018
+### Week 12 / Apr 3, 2019
 * Rajpurkar, Pranav, et al. "Cardiologist-level arrhythmia detection with convolutional neural networks." arXiv preprint arXiv:1707.01836 (2017). [link](https://arxiv.org/pdf/1707.01836.pdf)
 * Ballinger, Brandon, et al. "DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk Prediction." AAAI Conference on Artificial Intelligence, Feb 2018 (AAAI-18) [link](https://arxiv.org/abs/1802.02511)
 * **(Optional review)** Tison, Geoffrey H., et al. "Passive detection of atrial fibrillation using a commercially available smartwatch." JAMA cardiology (2018). [link](https://drive.google.com/open?id=17ybirgd-JO4oosq3z3sOgbCcRRG5ccFl)
@@ -49,7 +49,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Turakhia, Mintu P. "Moving From Big Data to Deep Learning—The Case of Atrial Fibrillation." JAMA cardiology (2018). [link](https://drive.google.com/open?id=1xCSCOoybMFP0M1wQRAeE0odnrLkVofb1)
 * **(Optional review and presentation)** Ansari, Sardar, et al. "A Review of Automated Methods for Detection of Myocardial Ischemia and Infarction using Electrocardiogram and Electronic Health Records." IEEE reviews in biomedical engineering 10 (2017): 264-298. [link](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8068216)
 
-### Week 13 / Apr 11, 2018
+### Week 13 / Apr 10, 2019
 * Cole, James H., et al. "Predicting brain age with deep learning from raw imaging data results in a reliable and heritable biomarker." NeuroImage 163 (2017): 115-124. [link](https://www.sciencedirect.com/science/article/pii/S1053811917306407)
 *  **(Optional review)** Huang, Tzu-Wei, et al. "Age estimation from brain MRI images using deep learning." Biomedical Imaging (ISBI 2017), 2017 IEEE 14th International Symposium on. IEEE, 2017. [link](http://ieeexplore.ieee.org/document/7950650/)
 * Hosseini-Asl, Ehsan, Robert Keynton, and Ayman El-Baz. "Alzheimer's disease diagnostics by adaptation of 3D convolutional network." Image Processing (ICIP), 2016 IEEE International Conference on. IEEE, 2016. [link](https://arxiv.org/pdf/1607.00455.pdf)
@@ -58,15 +58,15 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Korfiatis, Panagiotis, et al. "Residual deep convolutional neural network predicts MGMT methylation status." Journal of digital imaging 30.5 (2017): 622-628. [link](https://link.springer.com/article/10.1007/s10278-017-0009-z)
 * **(Optional review and presentation)** Vieira, Sandra, Walter HL Pinaya, and Andrea Mechelli. "Using deep learning to investigate the neuroimaging correlates of psychiatric and neurological disorders: Methods and applications." Neuroscience & Biobehavioral Reviews 74 (2017): 58-75. [link](https://www.sciencedirect.com/science/article/pii/S0149763416305176)
 
-### Week 14 / Apr 18, 2018
+### Week 14 / Apr 17, 2019
 * Havaei, Mohammad, et al. "Brain tumor segmentation with deep neural networks." Medical image analysis 35 (2017): 18-31. [link](https://www.sciencedirect.com/science/article/pii/S1361841516300330)
 * Cheng, Jie-Zhi, et al. "Computer-aided diagnosis with deep learning architecture: applications to breast lesions in US images and pulmonary nodules in CT scans." Scientific reports 6 (2016): 24454. [link](https://www.nature.com/articles/srep24454)
 * Liu, Yun, et al. "Detecting cancer metastases on gigapixel pathology images." arXiv preprint arXiv:1703.02442 (2017). [link](https://arxiv.org/pdf/1703.02442.pdf)
 
-### Week 15 / Apr 25, 2018 
+### Week 15 / Apr 24, 2019 
 * Chekroud, Adam Mourad, et al. "Cross-trial prediction of treatment outcome in depression: a machine learning approach." The Lancet Psychiatry 3.3 (2016): 243-250.
 
-### Week 16 / May 2, 2018 / Final paper due 
+### Week 16 / May 1, 2019 / Final paper due 
 * **(Poster presentation)**
 
 
