@@ -5,13 +5,15 @@ layout: default
 ## Agenda
 
 ### Week 1 / Jan 17, 2018
-Orientation and welcome 
+Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN4uYnkgyNii0tJjGlcANoNu3OAQTXK9LY5_Ew/edit?usp=sharing)
 
 ### Week 2 / Jan 24, 2018
-* Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410. [link](https://jamanetwork.com/journals/jama/fullarticle/2588763)
+* Topol, Eric J. "High-performance medicine: the convergence of human and artificial intelligence." Nature Medicine 25.1 (2019): 44. [link](https://www.nature.com/articles/s41591-018-0300-7)
+* Challen, Robert, et al. "Artificial intelligence, bias and clinical safety" BMJ Qual Saf Published Online First: 12 January 2019. [link](https://qualitysafety.bmj.com/content/early/2019/01/12/bmjqs-2018-008370)
 
 ### Week 3 / Jan 31, 2018
 * Esteva, Andre, et al. "Dermatologist-level classification of skin cancer with deep neural networks." Nature 542.7639 (2017): 115-118. [link](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
+* Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410. [link](https://jamanetwork.com/journals/jama/fullarticle/2588763)
 
 ### Week 4 / Feb 7, 2018
 * Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
