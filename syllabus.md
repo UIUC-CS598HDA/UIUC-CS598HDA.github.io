@@ -35,7 +35,7 @@ Each of these components of the course is discussed below, along with several ot
 
 
 ## Presentations 
-* All students must sign up for a presentation slot, please write your name in the [sign up sheet](https://docs.google.com/spreadsheets/d/1SHtvISvCsk8Jwhv03yjI9D5WF-uowbyvAPmj4ZnT_tc/edit?usp=sharing). Please choose the slot solely based on the date, not the papers as they are subject to change. 
+* All students must sign up for a presentation slot, please write your name in the [sign up sheet](https://docs.google.com/spreadsheets/d/18lxAR7ism8mibEPl1mjY67BULS8I0L2DobpRMudww2k/edit?usp=sharing). Please choose the slot solely based on the date, not the papers as they are subject to change. 
 * During the semester, each student will (co-)present a paper and (co-)lead a paper discussion at least once. 
 * If two presenters are assigned to one presentation, they work together. 
 * Meet with the instructors at the end of the previous class to discuss your plan. Email your slides to the instructors at least 24 hours before the presentation time. You will receive feedback via email or in person. 
@@ -45,7 +45,7 @@ Each of these components of the course is discussed below, along with several ot
 * After the presentation, lead a conversation about the papers, covering topics much like those that would be covered in a paper review and the discussion panel. Integrate themes from student commentaries to spark discussion.
 
 ## Research project
-* The research project is one of the highlights of the course. The goal is for students to pick and execute on a data-driven research project in health domain that, by the end of the semester (mid May), would be publishable as a short paper in a top quality workshop like [NIPS](https://nips.cc/Conferences/2017), and when expanded to a full paper would be publishable in a top-quality conference.
+* The research project is one of the highlights of the course. The goal is for students to pick and execute on a data-driven research project in health domain that, by the end of the semester (mid May), would be publishable as a short paper in a top quality workshop like [NeurIPS ML4H: Machine Learning for Health](https://ml4health.github.io/2018/), and when expanded to a full paper would be publishable in a top-quality conference.
 * We recommend you work in groups of 2-3. Larger or smaller groups should discuss with the instructor first.
 * Projects must satisfy three requirements:
   * address a real, health/clinical problem in a particular domain
