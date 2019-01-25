@@ -12,7 +12,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Challen, Robert, et al. "Artificial intelligence, bias and clinical safety" BMJ Qual Saf Published Online First: 12 January 2019. [link](https://qualitysafety.bmj.com/content/early/2019/01/12/bmjqs-2018-008370)
 
 ### Week 3 / Jan 30, 2019
-* Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [paper](http://www.pnas.org/content/114/38/10166.full) and [supporting materials](https://www.pnas.org/content/suppl/2017/08/30/1711125114.DCSupplemental) and [response](https://www.biorxiv.org/content/10.1101/185330v3) and [response to response](https://www.biorxiv.org/content/10.1101/187542v3) and [Nature news](https://www.nature.com/news/geneticists-pan-paper-that-claims-to-predict-a-person-s-face-from-their-dna-1.22580)
+* Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [paper](http://www.pnas.org/content/114/38/10166.full) and [supporting materials](https://www.pnas.org/content/suppl/2017/08/30/1711125114.DCSupplemental) and [response](https://www.biorxiv.org/content/10.1101/185330v3) and [response to response](https://www.biorxiv.org/content/10.1101/187542v3).
 
 ### Week 4 / Feb 6, 2019
 * Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
