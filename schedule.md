@@ -12,8 +12,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Challen, Robert, et al. "Artificial intelligence, bias and clinical safety" BMJ Qual Saf Published Online First: 12 January 2019. [link](https://qualitysafety.bmj.com/content/early/2019/01/12/bmjqs-2018-008370)
 
 ### Week 3 / Jan 30, 2019
-* Esteva, Andre, et al. "Dermatologist-level classification of skin cancer with deep neural networks." Nature 542.7639 (2017): 115-118. [link](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
-* Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410. [link](https://jamanetwork.com/journals/jama/fullarticle/2588763)
+* Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [paper](http://www.pnas.org/content/114/38/10166.full) and [supporting materials](https://www.pnas.org/content/suppl/2017/08/30/1711125114.DCSupplemental) and [response](https://www.biorxiv.org/content/10.1101/185330v3) and [response to response](https://www.biorxiv.org/content/10.1101/187542v3) and [Nature news](https://www.nature.com/news/geneticists-pan-paper-that-claims-to-predict-a-person-s-face-from-their-dna-1.22580)
 
 ### Week 4 / Feb 6, 2019
 * Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
@@ -25,7 +24,8 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
 
 ### Week 7 / Feb 27, 2019
-* Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [link](http://www.pnas.org/content/114/38/10166.full)
+* Esteva, Andre, et al. "Dermatologist-level classification of skin cancer with deep neural networks." Nature 542.7639 (2017): 115-118. [link](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
+* Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410. [link](https://jamanetwork.com/journals/jama/fullarticle/2588763)
 
 ### Week 8 / Mar 6, 2019 / Midterm report due
 * Miotto, Riccardo, et al. "Deep patient: an unsupervised representation to predict the future of patients from the electronic health records." Scientific reports 6 (2016): 26094. [link](https://www.nature.com/articles/srep26094)
