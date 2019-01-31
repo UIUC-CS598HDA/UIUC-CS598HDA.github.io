@@ -15,7 +15,10 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [paper](http://www.pnas.org/content/114/38/10166.full) and [supporting materials](https://www.pnas.org/content/suppl/2017/08/30/1711125114.DCSupplemental) and [response](https://www.biorxiv.org/content/10.1101/185330v3) and [response to response](https://www.biorxiv.org/content/10.1101/187542v3).
 
 ### Week 4 / Feb 6, 2019
-* Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
+* Esteva, Andre, et al. "Dermatologist-level classification of skin cancer with deep neural networks." Nature 542.7639 (2017): 115-118. [link](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
+* **(Optional review)** Haenssle, H. A., et al. "Man against machine: diagnostic performance of a deep learning convolutional neural network for dermoscopic melanoma recognition in comparison to 58 dermatologists." Annals of Oncology (2018). [link](https://academic.oup.com/annonc/article/29/8/1836/5004443)
+* Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410. [link](https://jamanetwork.com/journals/jama/fullarticle/2588763)
+* **(Optional review)** Poplin, Ryan, et al. "Prediction of cardiovascular risk factors from retinal fundus photographs via deep learning." Nature Biomedical Engineering 2.3 (2018): 158. [link](https://www.nature.com/articles/s41551-018-0195-0)
 
 ### Week 5 / Feb 13, 2019 / Project proposals due
 * Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
@@ -24,8 +27,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
 
 ### Week 7 / Feb 27, 2019
-* Esteva, Andre, et al. "Dermatologist-level classification of skin cancer with deep neural networks." Nature 542.7639 (2017): 115-118. [link](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
-* Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410. [link](https://jamanetwork.com/journals/jama/fullarticle/2588763)
+* Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
 
 ### Week 8 / Mar 6, 2019 / Midterm report due
 * Miotto, Riccardo, et al. "Deep patient: an unsupervised representation to predict the future of patients from the electronic health records." Scientific reports 6 (2016): 26094. [link](https://www.nature.com/articles/srep26094)
