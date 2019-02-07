@@ -21,8 +21,8 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * **(Optional review)** Poplin, Ryan, et al. "Prediction of cardiovascular risk factors from retinal fundus photographs via deep learning." Nature Biomedical Engineering 2.3 (2018): 158. [link](https://www.nature.com/articles/s41551-018-0195-0)
 
 ### Week 5 / Feb 13, 2019 / Project proposals due
-* Rajkomar, Alvin, et al. "Scalable and accurate deep learning with electronic health records." npj Digital Medicine 1.1 (2018): 18. [link](https://www.nature.com/articles/s41746-018-0029-1)
 * Miotto, Riccardo, et al. "Deep patient: an unsupervised representation to predict the future of patients from the electronic health records." Scientific reports 6 (2016): 26094. [link](https://www.nature.com/articles/srep26094)
+* Rajkomar, Alvin, et al. "Scalable and accurate deep learning with electronic health records." npj Digital Medicine 1.1 (2018): 18. [link](https://www.nature.com/articles/s41746-018-0029-1)
 
 ### Week 6 / Feb 20, 2019
 * Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
