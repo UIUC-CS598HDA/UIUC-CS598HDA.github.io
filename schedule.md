@@ -12,6 +12,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Challen, Robert, et al. "Artificial intelligence, bias and clinical safety" BMJ Qual Saf Published Online First: 12 January 2019. [link](https://qualitysafety.bmj.com/content/early/2019/01/12/bmjqs-2018-008370)
 
 ### Week 3 / Jan 30, 2019
+* **(School closed due to the polar vortex - rescheduled for week 15)**
 * Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [paper](http://www.pnas.org/content/114/38/10166.full) and [supporting materials](https://www.pnas.org/content/suppl/2017/08/30/1711125114.DCSupplemental) and [response](https://www.biorxiv.org/content/10.1101/185330v3) and [response to response](https://www.biorxiv.org/content/10.1101/187542v3).
 
 ### Week 4 / Feb 6, 2019
@@ -25,7 +26,16 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Rajkomar, Alvin, et al. "Scalable and accurate deep learning with electronic health records." npj Digital Medicine 1.1 (2018): 18. [link](https://www.nature.com/articles/s41746-018-0029-1)
 
 ### Week 6 / Feb 20, 2019
-* Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
+* **(Read - no review)** Mincholé, Ana, and Blanca Rodriguez. "Artificial intelligence for the electrocardiogram." Nature medicine 25.1 (2019): 22. [link](https://www.nature.com/articles/s41591-018-0306-1)
+* **(Read - no review)** Turakhia, Mintu P. "Moving From Big Data to Deep Learning—The Case of Atrial Fibrillation." JAMA cardiology (2018). [link](https://drive.google.com/open?id=1xCSCOoybMFP0M1wQRAeE0odnrLkVofb1)
+* Hannun, Awni Y., et al. "Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network." Nature medicine 25.1 (2019): 65. [link](https://www.nature.com/articles/s41591-018-0268-3) and [website](https://stanfordmlgroup.github.io/projects/ecg2/)
+* **(Skim - optional review)** Attia, Zachi I., et al. "Screening for cardiac contractile dysfunction using an artificial intelligence–enabled electrocardiogram." Nature medicine 25.1 (2019): 70. [link](https://www.nature.com/articles/s41591-018-0240-2)
+* **(Skim - optional review/presentation)** Tison, Geoffrey H., et al. "Passive detection of atrial fibrillation using a commercially available smartwatch." JAMA cardiology (2018). [link](https://drive.google.com/open?id=17ybirgd-JO4oosq3z3sOgbCcRRG5ccFl)
+* **(Skim - optional review/presentation)** Ballinger, Brandon, et al. "DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk Prediction." AAAI Conference on Artificial Intelligence, Feb 2018 (AAAI-18) [link](https://arxiv.org/abs/1802.02511)
+* **(Skim - optional review/presentation)** Halcox, Julian PJ, et al. "Assessment of remote heart rhythm sampling using the AliveCor heart monitor to screen for atrial fibrillation: the REHEARSE-AF study." Circulation 136.19 (2017): 1784-1794. [link](http://circ.ahajournals.org/content/136/19/1784.long)
+* **(Skim - optional review/presentation)** Ansari, Sardar, et al. "A Review of Automated Methods for Detection of Myocardial Ischemia and Infarction using Electrocardiogram and Electronic Health Records." IEEE reviews in biomedical engineering 10 (2017): 264-298. [link](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8068216)
+* Madani, Ali, et al. "Deep echocardiography: data-efficient supervised and semi-supervised deep learning towards automated diagnosis of cardiac disease." npj Digital Medicine 1.1 (2018): 59. [link](https://www.nature.com/articles/s41746-018-0065-x)
+* **(Skim - optional review)** Zhang, Jeffrey, et al. "Fully automated echocardiogram interpretation in clinical practice: feasibility and diagnostic accuracy." Circulation 138.16 (2018): 1623-1635. [link](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.034338)
 
 ### Week 7 / Feb 27, 2019
 * Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
@@ -44,13 +54,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Rotmensch, Maya, et al. "Learning a health knowledge graph from electronic medical records." Scientific reports 7.1 (2017): 5994. [link](https://www.nature.com/articles/s41598-017-05778-z) 
 
 ### Week 12 / Apr 3, 2019
-* Rajpurkar, Pranav, et al. "Cardiologist-level arrhythmia detection with convolutional neural networks." arXiv preprint arXiv:1707.01836 (2017). [link](https://arxiv.org/pdf/1707.01836.pdf)
-* Ballinger, Brandon, et al. "DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk Prediction." AAAI Conference on Artificial Intelligence, Feb 2018 (AAAI-18) [link](https://arxiv.org/abs/1802.02511)
-* **(Optional review)** Tison, Geoffrey H., et al. "Passive detection of atrial fibrillation using a commercially available smartwatch." JAMA cardiology (2018). [link](https://drive.google.com/open?id=17ybirgd-JO4oosq3z3sOgbCcRRG5ccFl)
-* Nemati, Shamim, et al. "Monitoring and detecting atrial fibrillation using wearable technology." Engineering in Medicine and Biology Society (EMBC), 2016 IEEE 38th Annual International Conference of the. IEEE, 2016. [link](http://ieeexplore.ieee.org/abstract/document/7591456/)
-* **(Optional review)** Halcox, Julian PJ, et al. "Assessment of remote heart rhythm sampling using the AliveCor heart monitor to screen for atrial fibrillation: the REHEARSE-AF study." Circulation 136.19 (2017): 1784-1794. [link](http://circ.ahajournals.org/content/136/19/1784.long)
-* Turakhia, Mintu P. "Moving From Big Data to Deep Learning—The Case of Atrial Fibrillation." JAMA cardiology (2018). [link](https://drive.google.com/open?id=1xCSCOoybMFP0M1wQRAeE0odnrLkVofb1)
-* **(Optional review and presentation)** Ansari, Sardar, et al. "A Review of Automated Methods for Detection of Myocardial Ischemia and Infarction using Electrocardiogram and Electronic Health Records." IEEE reviews in biomedical engineering 10 (2017): 264-298. [link](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8068216)
+* Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
 
 ### Week 13 / Apr 10, 2019
 * Cole, James H., et al. "Predicting brain age with deep learning from raw imaging data results in a reliable and heritable biomarker." NeuroImage 163 (2017): 115-124. [link](https://www.sciencedirect.com/science/article/pii/S1053811917306407)
@@ -68,6 +72,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 
 ### Week 15 / Apr 24, 2019 
 * Chekroud, Adam Mourad, et al. "Cross-trial prediction of treatment outcome in depression: a machine learning approach." The Lancet Psychiatry 3.3 (2016): 243-250.
+* Gurovich, Yaron, et al. "Identifying facial phenotypes of genetic disorders using deep learning." Nature medicine 25.1 (2019): 60. [paper](https://www.nature.com/articles/s41591-018-0279-0)
 
 ### Week 16 / May 1, 2019 / Final paper due 
 * **(Poster presentation)**
