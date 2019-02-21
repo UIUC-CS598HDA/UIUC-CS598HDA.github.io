@@ -38,10 +38,21 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * **(optional review)** Madani, Ali, et al. "Deep echocardiography: data-efficient supervised and semi-supervised deep learning towards automated diagnosis of cardiac disease." npj Digital Medicine 1.1 (2018): 59. [link](https://www.nature.com/articles/s41746-018-0065-x)
 
 ### Week 7 / Feb 27, 2019
-* Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
+* Akbari, Hassan, et al. "Towards reconstructing intelligible speech from the human auditory cortex." Scientific reports 9.1 (2019): 874. [link](https://www.nature.com/articles/s41598-018-37359-z) and [website](http://naplab.ee.columbia.edu/reconstruction.html)
+* **(Read - no review)** Warraich, Haider J.,  et al. "The digital transformation of medicine can revitalize the patient-clinician relationship." npj Digital Medicine 1.1 (2018): 49. [link](https://www.nature.com/articles/s41746-018-0060-2)
+* **(Read - no review)** Verghese, Abraham, et al. "What this computer needs is a physician: humanism and artificial intelligence." Jama 319.1 (2018): 19-20. [link](https://jamanetwork.com/journals/jama/article-abstract/2666717)
+* Chiu, Chung-Cheng, et al. "Speech recognition for medical conversations." arXiv preprint arXiv:1711.07274 (2017). [link](https://arxiv.org/pdf/1711.07274.pdf) and [Blog post](https://ai.googleblog.com/2017/11/understanding-medical-conversations.html#1)
+* **(optional review)** Al Hanai, Tuka, et al. "Detecting Depression with Audio/Text Sequence Modeling of Interviews." Proc. Interspeech. 2018. [link](https://pdfs.semanticscholar.org/2f75/2916c7dd74a3b7e44a3a4c21bce8d57b0fc4.pdf)
+* **(optional review)** Faurholt-Jepsen, Maria, et al. "Voice analysis as an objective state marker in bipolar disorder." Translational psychiatry 6.7 (2016): e856. [link](https://www.nature.com/articles/tp2016123)
+* **(Skim)** Wroge, Timothy J., et al. "Parkinson’s Disease Diagnosis Using Machine Learning and Voice." 2018 IEEE Signal Processing in Medicine and Biology Symposium (SPMB). IEEE, 2018. [link](https://ieeexplore.ieee.org/abstract/document/8615607)
+* **(Skim)** Victor, Ezekiel, et al. "Detecting Depression Using a Framework Combining Deep Multimodal Neural Networks with a Purpose-Built Automated Evaluation." PsyArXiv. September 30 (2018). [link](https://osf.io/vqpcz/download/?format=pdf)
+* **(Skim)** Cummins, Nicholas, et al. "Speech analysis for health: Current state-of-the-art and the increasing impact of deep learning." Methods (2018).[link](https://www.sciencedirect.com/science/article/pii/S1046202317303717)
+
 
 ### Week 8 / Mar 6, 2019 / Midterm report due
 * Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
+* Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
+* Corcoran, Cheryl M., et al. "Prediction of psychosis across protocols and risk cohorts using automated language analysis." World Psychiatry 17.1 (2018): 67-75.
 
 ### Week 9 / Mar 13, 2019
 * Baumel, Tal, et al. "Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment." arXiv preprint arXiv:1709.09587 (2017). [link](https://arxiv.org/pdf/1709.09587.pdf)
@@ -52,6 +63,9 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 
 ### Week 11 / Mar 27, 2019
 * Rotmensch, Maya, et al. "Learning a health knowledge graph from electronic medical records." Scientific reports 7.1 (2017): 5994. [link](https://www.nature.com/articles/s41598-017-05778-z) 
+* Deep Learning for Automatic Stereotypical Motor Movement Detection using Wearable Sensors in Autism Spectrum Disorders
+* Personalized machine learning for robot perception of affect and engagement in autism therapy
+* DeepBreath: Deep Learning of Breathing Patterns for Automatic Stress Recognition using Low-Cost Thermal Imaging in Unconstrained Settings
 
 ### Week 12 / Apr 3, 2019
 * Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
