@@ -46,6 +46,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * **(optional review)** Faurholt-Jepsen, Maria, et al. "Voice analysis as an objective state marker in bipolar disorder." Translational psychiatry 6.7 (2016): e856. [link](https://www.nature.com/articles/tp2016123)
 * **(Skim)** Wroge, Timothy J., et al. "Parkinson’s Disease Diagnosis Using Machine Learning and Voice." 2018 IEEE Signal Processing in Medicine and Biology Symposium (SPMB). IEEE, 2018. [link](https://ieeexplore.ieee.org/abstract/document/8615607)
 * **(Skim)** Victor, Ezekiel, et al. "Detecting Depression Using a Framework Combining Deep Multimodal Neural Networks with a Purpose-Built Automated Evaluation." PsyArXiv. September 30 (2018). [link](https://osf.io/vqpcz/download/?format=pdf)
+* **(Skim)** Coffey, Kevin R., et al. "DeepSqueak: a deep learning-based system for detection and analysis of ultrasonic vocalizations." development 4 (2019): 21. [link](https://www.nature.com/articles/s41386-018-0303-6)
 * **(Skim)** Cummins, Nicholas, et al. "Speech analysis for health: Current state-of-the-art and the increasing impact of deep learning." Methods (2018).[link](https://www.sciencedirect.com/science/article/pii/S1046202317303717)
 
 
