@@ -49,15 +49,29 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * **(Skim)** Coffey, Kevin R., et al. "DeepSqueak: a deep learning-based system for detection and analysis of ultrasonic vocalizations." development 4 (2019): 21. [link](https://www.nature.com/articles/s41386-018-0303-6)
 * **(Skim)** Cummins, Nicholas, et al. "Speech analysis for health: Current state-of-the-art and the increasing impact of deep learning." Methods (2018).[link](https://www.sciencedirect.com/science/article/pii/S1046202317303717)
 
-
 ### Week 8 / Mar 6, 2019 / Midterm report due
-* Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
-* Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017): 336. [link](https://www.nature.com/articles/nature23018)
-* Corcoran, Cheryl M., et al. "Prediction of psychosis across protocols and risk cohorts using automated language analysis." World Psychiatry 17.1 (2018): 67-75.
+* **(Read and interact)** 35 Years Of American Death. [website](https://projects.fivethirtyeight.com/mortality-rates-united-states/)
+* **(Read and interact)** Strava Global Heatmap. [website](https://www.strava.com/heatmap)
+* **(Read and interact)** HealthMap: Global Infectious Disease Monitoring. [website](https://healthmap.org/en/)
+* **(Read and interact)** Our World in Data - Global Health. [website](https://ourworldindata.org/health-meta)
+* **(Read and interact)** Data USA: Maps. [website](https://datausa.io/map/?level=county&key=uninsured)
+* **(Read and interact)** City Health Dashboard. [website](https://www.cityhealthdashboard.com) 
+* **(Read and interact)** Toxmap: Toxic Chemicals in the US. [website](https://toxmap.nlm.nih.gov/toxmap/app/)
+* **(Read and interact)** EPA's EnviroAtlas. [website](https://www.epa.gov/enviroatlas/enviroatlas-interactive-map)
+* **(Read - no review)** Ding, Ding. "Surveillance of global physical activity: progress, evidence, and future directions." The Lancet Global Health 6.10 (2018). [link](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30381-4/fulltext)
+* Althoff, Tim, et al. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017). [link](https://www.nature.com/articles/nature23018) and [website](http://activityinequality.stanford.edu)
+* **(optional review)** Guthold, Regina, et al. "Worldwide trends in insufficient physical activity from 2001 to 2016: a pooled analysis of 358 population-based surveys with 1· 9 million participants." The Lancet Global Health 6.10 (2018). [link](https://www.sciencedirect.com/science/article/pii/S2214109X18303577)
+* **(optional review)** Chekroud, Sammi R., et al. "Association between physical exercise and mental health in 1· 2 million individuals in the USA between 2011 and 2015: a cross-sectional study." The Lancet Psychiatry 5.9 (2018). [link](https://www.sciencedirect.com/science/article/pii/S221503661830227X)
+* Cohen, Aaron J., et al. "Estimates and 25-year trends of the global burden of disease attributable to ambient air pollution: an analysis of data from the Global Burden of Diseases Study 2015." The Lancet 389.10082 (2017). [link](https://www.sciencedirect.com/science/article/pii/S0140673617305056#!)
+* **(optional review)** Foreman, Kyle J., et al. "Forecasting life expectancy, years of life lost, and all-cause and cause-specific mortality for 250 causes of death: reference and alternative scenarios for 2016–40 for 195 countries and territories." The Lancet 392.10159 (2018). [link](https://www.sciencedirect.com/science/article/pii/S0140673618316945)
+* **(Skim)** Landrigan, Philip J., et al. "The Lancet Commission on pollution and health." The Lancet 391.10119 (2018): 462-512. [link](https://www-sciencedirect-com.proxy2.library.illinois.edu/science/article/pii/S0140673617323450?via%3Dihub)
 
 ### Week 9 / Mar 13, 2019
 * Baumel, Tal, et al. "Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment." arXiv preprint arXiv:1709.09587 (2017). [link](https://arxiv.org/pdf/1709.09587.pdf)
 * Che, Zhengping, et al. "Recurrent neural networks for multivariate time series with missing values." arXiv preprint arXiv:1606.01865 (2016). [link](https://arxiv.org/pdf/1606.01865.pdf)
+* Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
+* Corcoran, Cheryl M., et al. "Prediction of psychosis across protocols and risk cohorts using automated language analysis." World Psychiatry 17.1 (2018): 67-75.
+* A communal catalogue reveals Earth’s multiscale microbial diversity
 
 ### Week 10 / Mar 20, 2019 / Spring break
 * No class
@@ -67,6 +81,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Deep Learning for Automatic Stereotypical Motor Movement Detection using Wearable Sensors in Autism Spectrum Disorders
 * Personalized machine learning for robot perception of affect and engagement in autism therapy
 * DeepBreath: Deep Learning of Breathing Patterns for Automatic Stress Recognition using Low-Cost Thermal Imaging in Unconstrained Settings
+* Statistical machine learning of sleep and physical activity phenotypes from sensor data in 96,220 UK Biobank participants
 
 ### Week 12 / Apr 3, 2019
 * Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
@@ -88,6 +103,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 ### Week 15 / Apr 24, 2019 
 * Chekroud, Adam Mourad, et al. "Cross-trial prediction of treatment outcome in depression: a machine learning approach." The Lancet Psychiatry 3.3 (2016): 243-250.
 * Gurovich, Yaron, et al. "Identifying facial phenotypes of genetic disorders using deep learning." Nature medicine 25.1 (2019): 60. [paper](https://www.nature.com/articles/s41591-018-0279-0)
+* Human mobility: Models and applications
 
 ### Week 16 / May 1, 2019 / Final paper due 
 * **(Poster presentation)**
