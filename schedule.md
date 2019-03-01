@@ -50,7 +50,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * **(Skim)** Cummins, Nicholas, et al. "Speech analysis for health: Current state-of-the-art and the increasing impact of deep learning." Methods (2018).[link](https://www.sciencedirect.com/science/article/pii/S1046202317303717)
 
 ### Week 8 / Mar 6, 2019 / Midterm report due
-* **(Read and interact)** 35 Years Of American Death. [website](https://projects.fivethirtyeight.com/mortality-rates-united-states/)
+* **(interact)** 35 Years Of American Death. [website](https://projects.fivethirtyeight.com/mortality-rates-united-states/)
 * **(interact)** Strava Global Heatmap. [website](https://www.strava.com/heatmap)
 * **(interact)** HealthMap: Global Infectious Disease Monitoring. [website](https://healthmap.org/en/)
 * **(interact)** Our World in Data - Global Health. [website](https://ourworldindata.org/health-meta)
