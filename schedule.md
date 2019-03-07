@@ -67,11 +67,13 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * **(Skim)** Landrigan, Philip J., et al. "The Lancet Commission on pollution and health." The Lancet 391.10119 (2018): 462-512. [link](https://www-sciencedirect-com.proxy2.library.illinois.edu/science/article/pii/S0140673617323450?via%3Dihub)
 
 ### Week 9 / Mar 13, 2019
-* Baumel, Tal, et al. "Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment." arXiv preprint arXiv:1709.09587 (2017). [link](https://arxiv.org/pdf/1709.09587.pdf)
-* Che, Zhengping, et al. "Recurrent neural networks for multivariate time series with missing values." arXiv preprint arXiv:1606.01865 (2016). [link](https://arxiv.org/pdf/1606.01865.pdf)
-* Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
-* Corcoran, Cheryl M., et al. "Prediction of psychosis across protocols and risk cohorts using automated language analysis." World Psychiatry 17.1 (2018): 67-75.
-* A communal catalogue reveals Earth’s multiscale microbial diversity
+* **(Read - no review)** Muse, Evan D., et al. "Towards a smart medical home." The Lancet 389.10067 (2017): 358. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604864/)
+* **(Read - no review)** Gambhir, Sanjiv Sam, et al. "Toward achieving precision health." Science translational medicine 10.430 (2018): eaao3612. [link](http://stm.sciencemag.org/content/10/430/eaao3612.abstract?casa_token=x78ocxjRxD4AAAAA:mC_t04vtL_6oW2qkx3IquDjnIa9JafDeqd6kYN-RxzutYLrcxYDqyOLSqQ6xk-c_xKQ0GpxtfmLl)
+* **(Read - no review)** Miotto, Riccardo, et al. "Reflecting health: smart mirrors for personalized medicine." npj Digital Medicine 1.1 (2018): 62. [link](https://www.nature.com/articles/s41746-018-0068-7)
+* Rudovic, Ognjen, et al. "Personalized machine learning for robot perception of affect and engagement in autism therapy." Science Robotics 3.19 (2018). [link](http://robotics.sciencemag.org/content/3/19/eaao6760)
+* Cho, Youngjun, et al. "Instant Automated Inference of Perceived Mental Stress through Smartphone PPG and Thermal Imaging." arXiv preprint arXiv:1901.00449 (2018). [link](https://arxiv.org/pdf/1901.00449.pdf)
+* **(optional review)** Nakisa, Bahareh, et al. "Long Short Term Memory Hyperparameter Optimization for a Neural Network Based Emotion Recognition Framework." IEEE Access 6 (2018). [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8453798)
+* **(Skim)** Smets, Elena, et al. "Large-scale wearable data reveal digital phenotypes for daily-life stress detection." npj Digital Medicine 1.1 (2018): 67. [link](https://www.nature.com/articles/s41746-018-0074-9)
 
 ### Week 10 / Mar 20, 2019 / Spring break
 * No class
@@ -79,9 +81,12 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 ### Week 11 / Mar 27, 2019
 * Rotmensch, Maya, et al. "Learning a health knowledge graph from electronic medical records." Scientific reports 7.1 (2017): 5994. [link](https://www.nature.com/articles/s41598-017-05778-z) 
 * Deep Learning for Automatic Stereotypical Motor Movement Detection using Wearable Sensors in Autism Spectrum Disorders
-* Personalized machine learning for robot perception of affect and engagement in autism therapy
-* DeepBreath: Deep Learning of Breathing Patterns for Automatic Stress Recognition using Low-Cost Thermal Imaging in Unconstrained Settings
-* Statistical machine learning of sleep and physical activity phenotypes from sensor data in 96,220 UK Biobank participants
+* Baumel, Tal, et al. "Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment." arXiv preprint arXiv:1709.09587 (2017). [link](https://arxiv.org/pdf/1709.09587.pdf)
+* Che, Zhengping, et al. "Recurrent neural networks for multivariate time series with missing values." arXiv preprint arXiv:1606.01865 (2016). [link](https://arxiv.org/pdf/1606.01865.pdf)
+* Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
+* Corcoran, Cheryl M., et al. "Prediction of psychosis across protocols and risk cohorts using automated language analysis." World Psychiatry 17.1 (2018): 67-75.
+* A communal catalogue reveals Earth’s multiscale microbial diversity
+* Satisfaction with a digitally-enabled telephone health coaching intervention for people with non-diabetic hyperglycaemia
 
 ### Week 12 / Apr 3, 2019
 * Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
