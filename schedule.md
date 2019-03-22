@@ -79,35 +79,36 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * No class
 
 ### Week 11 / Mar 27, 2019
+* Wu, Nan, et al. "Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening." arXiv preprint arXiv:1903.08297 (2019). [link](https://arxiv.org/abs/1903.08297) and [GitHub](https://github.com/nyukat/breast_cancer_classifier)
+* **(skim)**  Cheng, Jie-Zhi, et al. "Computer-aided diagnosis with deep learning architecture: applications to breast lesions in US images and pulmonary nodules in CT scans." Scientific reports 6 (2016): 24454. [link](https://www.nature.com/articles/srep24454)
+* Signaevsky, Maxim, et al. "Artificial intelligence in neuropathology: deep learning-based assessment of tauopathy." Laboratory Investigation (2019): 1. [link](https://www.nature.com/articles/s41374-019-0202-4)
+* **(optional review)** Havaei, Mohammad, et al. "Brain tumor segmentation with deep neural networks." Medical image analysis 35 (2017): 18-31. [link](https://www.sciencedirect.com/science/article/pii/S1361841516300330)
+* **(optional review)** Weston, Alexander D., et al. "Automated abdominal segmentation of CT scans for body composition analysis using deep learning." Radiology (2018): 181432. [link](https://pubs.rsna.org/doi/full/10.1148/radiol.2018181432)
+* **(skim)** Korfiatis, Panagiotis, et al. "Residual deep convolutional neural network predicts MGMT methylation status." Journal of digital imaging 30.5 (2017): 622-628. [link](https://link.springer.com/article/10.1007/s10278-017-0009-z)
+* **(skim)** Cole, James H., et al. "Predicting brain age with deep learning from raw imaging data results in a reliable and heritable biomarker." NeuroImage 163 (2017): 115-124. [link](https://www.sciencedirect.com/science/article/pii/S1053811917306407)
+* **(skim)** Hosseini-Asl, Ehsan, Robert Keynton, and Ayman El-Baz. "Alzheimer's disease diagnostics by adaptation of 3D convolutional network." Image Processing (ICIP), 2016 IEEE International Conference on. IEEE, 2016. [link](https://arxiv.org/pdf/1607.00455.pdf)
+
+### Week 12 / Apr 3, 2019
+* Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
 * Rotmensch, Maya, et al. "Learning a health knowledge graph from electronic medical records." Scientific reports 7.1 (2017): 5994. [link](https://www.nature.com/articles/s41598-017-05778-z) 
 * Deep Learning for Automatic Stereotypical Motor Movement Detection using Wearable Sensors in Autism Spectrum Disorders
-* Baumel, Tal, et al. "Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment." arXiv preprint arXiv:1709.09587 (2017). [link](https://arxiv.org/pdf/1709.09587.pdf)
 * Che, Zhengping, et al. "Recurrent neural networks for multivariate time series with missing values." arXiv preprint arXiv:1606.01865 (2016). [link](https://arxiv.org/pdf/1606.01865.pdf)
 * Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
 * Corcoran, Cheryl M., et al. "Prediction of psychosis across protocols and risk cohorts using automated language analysis." World Psychiatry 17.1 (2018): 67-75.
 * A communal catalogue reveals Earth’s multiscale microbial diversity
 * Satisfaction with a digitally-enabled telephone health coaching intervention for people with non-diabetic hyperglycaemia
 
-### Week 12 / Apr 3, 2019
-* Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
-
 ### Week 13 / Apr 10, 2019
-* Cole, James H., et al. "Predicting brain age with deep learning from raw imaging data results in a reliable and heritable biomarker." NeuroImage 163 (2017): 115-124. [link](https://www.sciencedirect.com/science/article/pii/S1053811917306407)
-*  **(Optional review)** Huang, Tzu-Wei, et al. "Age estimation from brain MRI images using deep learning." Biomedical Imaging (ISBI 2017), 2017 IEEE 14th International Symposium on. IEEE, 2017. [link](http://ieeexplore.ieee.org/document/7950650/)
-* Hosseini-Asl, Ehsan, Robert Keynton, and Ayman El-Baz. "Alzheimer's disease diagnostics by adaptation of 3D convolutional network." Image Processing (ICIP), 2016 IEEE International Conference on. IEEE, 2016. [link](https://arxiv.org/pdf/1607.00455.pdf)
-* **(Optional review)** Mathotaarachchi, Sulantha, et al. "Identifying incipient dementia individuals using machine learning and amyloid imaging." Neurobiology of aging 59 (2017): 80-90. [link](http://www.neurobiologyofaging.org/article/S0197-4580%2817%2930229-4/fulltext)
-* Choi, Hongyoon, et al. "Refining diagnosis of Parkinson's disease with deep learning-based interpretation of dopamine transporter imaging." NeuroImage: Clinical 16 (2017): 586-594. [link](https://www.sciencedirect.com/science/article/pii/S2213158217302243)
-* Korfiatis, Panagiotis, et al. "Residual deep convolutional neural network predicts MGMT methylation status." Journal of digital imaging 30.5 (2017): 622-628. [link](https://link.springer.com/article/10.1007/s10278-017-0009-z)
-* **(Optional review and presentation)** Vieira, Sandra, Walter HL Pinaya, and Andrea Mechelli. "Using deep learning to investigate the neuroimaging correlates of psychiatric and neurological disorders: Methods and applications." Neuroscience & Biobehavioral Reviews 74 (2017): 58-75. [link](https://www.sciencedirect.com/science/article/pii/S0149763416305176)
+* Liu, Yun, et al. "Detecting cancer metastases on gigapixel pathology images." arXiv preprint arXiv:1703.02442 (2017). [link](https://arxiv.org/pdf/1703.02442.pdf)
+* Baumel, Tal, et al. "Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment." arXiv preprint arXiv:1709.09587 (2017). [link](https://arxiv.org/pdf/1709.09587.pdf)
 
 ### Week 14 / Apr 17, 2019
-* Havaei, Mohammad, et al. "Brain tumor segmentation with deep neural networks." Medical image analysis 35 (2017): 18-31. [link](https://www.sciencedirect.com/science/article/pii/S1361841516300330)
-* Cheng, Jie-Zhi, et al. "Computer-aided diagnosis with deep learning architecture: applications to breast lesions in US images and pulmonary nodules in CT scans." Scientific reports 6 (2016): 24454. [link](https://www.nature.com/articles/srep24454)
-* Liu, Yun, et al. "Detecting cancer metastases on gigapixel pathology images." arXiv preprint arXiv:1703.02442 (2017). [link](https://arxiv.org/pdf/1703.02442.pdf)
+
 
 ### Week 15 / Apr 24, 2019 
 * Chekroud, Adam Mourad, et al. "Cross-trial prediction of treatment outcome in depression: a machine learning approach." The Lancet Psychiatry 3.3 (2016): 243-250.
 * Gurovich, Yaron, et al. "Identifying facial phenotypes of genetic disorders using deep learning." Nature medicine 25.1 (2019): 60. [paper](https://www.nature.com/articles/s41591-018-0279-0)
+* Shomorony, Ilan, et al. "Unsupervised integration of multimodal dataset identifies novel signatures of health and disease." bioRxiv (2018): 432641.
 * Human mobility: Models and applications
 
 ### Week 16 / May 1, 2019 / Final paper due 
