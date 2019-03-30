@@ -89,20 +89,23 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * **(skim)** Hosseini-Asl, Ehsan, Robert Keynton, and Ayman El-Baz. "Alzheimer's disease diagnostics by adaptation of 3D convolutional network." Image Processing (ICIP), 2016 IEEE International Conference on. IEEE, 2016. [link](https://arxiv.org/pdf/1607.00455.pdf)
 
 ### Week 12 / Apr 3, 2019
-* Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
 * Rotmensch, Maya, et al. "Learning a health knowledge graph from electronic medical records." Scientific reports 7.1 (2017): 5994. [link](https://www.nature.com/articles/s41598-017-05778-z) 
-* Deep Learning for Automatic Stereotypical Motor Movement Detection using Wearable Sensors in Autism Spectrum Disorders
-* Che, Zhengping, et al. "Recurrent neural networks for multivariate time series with missing values." arXiv preprint arXiv:1606.01865 (2016). [link](https://arxiv.org/pdf/1606.01865.pdf)
-* Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
-* Corcoran, Cheryl M., et al. "Prediction of psychosis across protocols and risk cohorts using automated language analysis." World Psychiatry 17.1 (2018): 67-75.
-* A communal catalogue reveals Earth’s multiscale microbial diversity
-* Satisfaction with a digitally-enabled telephone health coaching intervention for people with non-diabetic hyperglycaemia
+* Gkotsis, George, et al. "Characterisation of mental health conditions in social media using Informed Deep Learning." Scientific reports 7 (2017): 45141. [link](https://www.nature.com/articles/srep45141)
+* **(optional review)** Nie, Liqiang, et al. "Disease inference from health-related questions via sparse deep learning." IEEE Transactions on knowledge and Data Engineering 27.8 (2015): 2107-2119. [link](http://ieeexplore.ieee.org/abstract/document/7029673/)
+* **(optional review)** Corcoran, Cheryl M., et al. "Prediction of psychosis across protocols and risk cohorts using automated language analysis." World Psychiatry 17.1 (2018): 67-75. [link](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20491)
+* **(optional review)** Fitzpatrick, Kathleen Kara, Alison Darcy, and Molly Vierhile. "Delivering cognitive behavior therapy to young adults with symptoms of depression and anxiety using a fully automated conversational agent (Woebot): a randomized controlled trial." JMIR mental health 4.2 (2017). [link](https://mental.jmir.org/2017/2/e19/) and [website](https://woebot.io)
+* **(skim)** Coventry, Peter, et al. "Satisfaction with a digitally-enabled telephone health coaching intervention for people with non-diabetic hyperglycaemia." npj Digital Medicine 2.1 (2019): 5. [link](https://www.nature.com/articles/s41746-019-0080-6)
+* **(skim)** Tsakalidis, Adam, et al. "Can We Assess Mental Health Through Social Media and Smart Devices? Addressing Bias in Methodology and Evaluation." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, Cham, 2018. [link](https://arxiv.org/pdf/1807.07351.pdf)
+* **(skim)**  Baumel, Tal, et al. "Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment." arXiv preprint arXiv:1709.09587 (2017). [link](https://arxiv.org/pdf/1709.09587.pdf)
 
 ### Week 13 / Apr 10, 2019
 * Liu, Yun, et al. "Detecting cancer metastases on gigapixel pathology images." arXiv preprint arXiv:1703.02442 (2017). [link](https://arxiv.org/pdf/1703.02442.pdf)
-* Baumel, Tal, et al. "Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment." arXiv preprint arXiv:1709.09587 (2017). [link](https://arxiv.org/pdf/1709.09587.pdf)
+* Che, Zhengping, et al. "Recurrent neural networks for multivariate time series with missing values." arXiv preprint arXiv:1606.01865 (2016). [link](https://arxiv.org/pdf/1606.01865.pdf)
+
 
 ### Week 14 / Apr 17, 2019
+* Deep Learning for Automatic Stereotypical Motor Movement Detection using Wearable Sensors in Autism Spectrum Disorders
+* Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
 
 
 ### Week 15 / Apr 24, 2019 
@@ -110,6 +113,7 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * Gurovich, Yaron, et al. "Identifying facial phenotypes of genetic disorders using deep learning." Nature medicine 25.1 (2019): 60. [paper](https://www.nature.com/articles/s41591-018-0279-0)
 * Shomorony, Ilan, et al. "Unsupervised integration of multimodal dataset identifies novel signatures of health and disease." bioRxiv (2018): 432641.
 * Human mobility: Models and applications
+* A communal catalogue reveals Earth’s multiscale microbial diversity
 
 ### Week 16 / May 1, 2019 / Final paper due 
 * **(Poster presentation)**
