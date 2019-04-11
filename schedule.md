@@ -104,15 +104,16 @@ Orientation and welcome [slides](https://docs.google.com/presentation/d/1hd0kdWN
 * **(optional review)** Wang, Xiang, et al. "Unsupervised learning of disease progression models." Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2014. [link](https://dl.acm.org/citation.cfm?id=2623754)
 
 ### Week 14 / Apr 17, 2019
-* Deep Learning for Automatic Stereotypical Motor Movement Detection using Wearable Sensors in Autism Spectrum Disorders
-* Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
+* **(Read - no review)** Finlayson, Samuel G., et al. "Adversarial attacks on medical machine learning." Science 363.6433 (2019). [link](https://science.sciencemag.org/content/363/6433/1287)
+* Mirsky, Yisroel, et al. "CT-GAN: Malicious Tampering of 3D Medical Imagery using Deep Learning." arXiv preprint arXiv:1901.03597 (2019). [link](https://arxiv.org/abs/1901.03597)
+* Gurovich, Yaron, et al. "Identifying facial phenotypes of genetic disorders using deep learning." Nature medicine 25.1 (2019): 60. [link](https://www.nature.com/articles/s41591-018-0279-0)
+* **(optional review)** Chekroud, Adam Mourad, et al. "Cross-trial prediction of treatment outcome in depression: a machine learning approach." The Lancet Psychiatry 3.3 (2016). [link](https://www.ncbi.nlm.nih.gov/pubmed?term=26803397)
+* **(optional review)** Avati, Anand, et al. "Improving palliative care with deep learning." arXiv preprint arXiv:1711.06402 (2017). [link](https://arxiv.org/pdf/1711.06402.pdf)
 
 ### Week 15 / Apr 24, 2019 
-* Chekroud, Adam Mourad, et al. "Cross-trial prediction of treatment outcome in depression: a machine learning approach." The Lancet Psychiatry 3.3 (2016): 243-250.
-* Gurovich, Yaron, et al. "Identifying facial phenotypes of genetic disorders using deep learning." Nature medicine 25.1 (2019): 60. [paper](https://www.nature.com/articles/s41591-018-0279-0)
-* Shomorony, Ilan, et al. "Unsupervised integration of multimodal dataset identifies novel signatures of health and disease." bioRxiv (2018): 432641.
-* Human mobility: Models and applications
-* A communal catalogue reveals Earth’s multiscale microbial diversity
+* **(review from week3)** Lippert, Christoph, et al. "Identification of individuals by trait prediction using whole-genome sequencing data." Proceedings of the National Academy of Sciences 114.38 (2017): 10166-10171. [paper](http://www.pnas.org/content/114/38/10166.full) and [supporting materials](https://www.pnas.org/content/suppl/2017/08/30/1711125114.DCSupplemental) and [response](https://www.biorxiv.org/content/10.1101/185330v3) and [response to response](https://www.biorxiv.org/content/10.1101/187542v3).
+* Shomorony, Ilan, et al. "Unsupervised integration of multimodal dataset identifies novel signatures of health and disease." bioRxiv (2018): 432641. [link](https://www.biorxiv.org/content/early/2018/10/03/432641)
+* **(skim)** Thompson, Luke R., et al. "A communal catalogue reveals Earth’s multiscale microbial diversity." Nature 551.7681 (2017). [link](https://www.nature.com/articles/nature24621)
 
 ### Week 16 / May 1, 2019 / Final paper due 
 * **(Poster presentation)**
